@@ -1,5 +1,5 @@
 // 自作モジュール
-import { codetext } from "./stylehyper.js";
+import { codetext } from "./styleHyper.js";
 
 // ボタンの設定
 document.getElementById("nagoyaBtn").addEventListener("click", showNagoya);
